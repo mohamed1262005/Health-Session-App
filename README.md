@@ -63,5 +63,15 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 📝 License
 This project is licensed under the MIT License.
+Download & Run (No Coding Required)
+If you just want to use the application without dealing with the source code, follow these steps:
+
+Go to the Releases page on the right side of this repository.
+
+Download the latest version of SmartPostureMonitor.zip or .exe.
+
+Extract the folder (if zipped) and double-click SmartPostureMonitor.exe.
+
+Note: Your Windows Defender might show a "Windows protected your PC" message because the app is not digitally signed. Click "More info" and then "Run anyway".
 
 Developed with ❤️ by Mohamed
